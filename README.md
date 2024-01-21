@@ -5,7 +5,6 @@ I do, so I thought I would try and solve this real world crisis by automating th
 
 In this project, I learnt how to integrate Spotify Oauth and automate saving the Discover Weekly playlist using the Spotify API. 
 In addition, I also learnt how to authenticate with Spotify, get an access token, and use it to retrieve information about a user's playlists and tracks. 
-I'll also walk you through the code for saving the Discover Weekly playlist automatically.
 
 Huge props to Synsation for the youtube help and tutorial. Link below:
 https://www.youtube.com/@synsation 
